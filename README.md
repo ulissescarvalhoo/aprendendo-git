@@ -28,9 +28,10 @@ Esta linha foi adicionada na branch feature-pratica-github.
 
 Esta linha foi adicionada na branch feature-pratica-github para demonstrar Pull Request.
 
-
-
 Linha de teste: essa é a VERSÃO DA MAIN.
+
+Linha de teste: essa é a VERSÃO DA FEATURE-CONFLITO.
+
 
 
 
