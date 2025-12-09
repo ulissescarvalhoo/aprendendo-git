@@ -20,3 +20,13 @@ linha temporária para testar git reset
 
 Esta linha foi adicionada na branch feature-pratica-github.
 
+
+
+\## Teste de feature
+
+
+
+Esta linha foi adicionada na branch feature-pratica-github para demonstrar Pull Request.
+
+
+
