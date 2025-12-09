@@ -32,3 +32,5 @@ Esta linha foi adicionada na branch feature-pratica-github para demonstrar Pull 
 
 Linha de teste: essa é a VERSÃO DA FEATURE-CONFLITO.
 
+
+
